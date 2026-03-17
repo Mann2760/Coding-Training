@@ -43,4 +43,3 @@ addone("Apple")
 addone("Banana")
 addone("apple")
 print(len(fruit))
-
